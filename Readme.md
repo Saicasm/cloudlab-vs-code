@@ -26,7 +26,7 @@ Before you begin, ensure you have:
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Saicasm/cloudlab-vs-code.git
    cd cloudlab-setup
    ```
 
